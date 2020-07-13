@@ -19,7 +19,7 @@ sample：
 # 题目
 >- 充要条件是我们初中学习过的知识。p是q的充要条件，是指由p能推出q，同时由q也能推出p。充要条件还有一个称谓，即“p当且仅当q”。在数理逻辑中，专门为充要条件发明了一个运算符“↔”，即p↔q；也为“推出”（如果，那么）发明了一个运算符“→”。不管是“↔”，还是“→”，在数理逻辑中，都有专门的定义。请从数理逻辑的角度，证明以下两个复合命题等价，体验一下数理逻辑这套知识体系，不与我们的推理常识（充要条件）矛盾：
 
-![question](image/question.png)
+![question](https://github.com/star-hengxing/Discrete-Mathematics-Exam/blob/master/1.1/image/question.png)
 
 # 运行结果
-![image](image/result.png)
+![image](https://github.com/star-hengxing/Discrete-Mathematics-Exam/blob/master/1.1/image/result.png)
